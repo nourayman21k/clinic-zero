@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+pydantic
+python-dotenv
+arxiv<3
+wikipedia
+faiss-cpu
+sentence-transformers
+mcp
+ipykernel

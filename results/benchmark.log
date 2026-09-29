@@ -1,0 +1,334 @@
+0 turns already done, 200 to go.
+[1/200] q000 jev      Can you find the patient with phone number 01012345678?
+Loading weights:   0%|          | 0/426 [00:00<?, ?it/s]Loading weights:   0%|          | 1/426 [00:00<03:36,  1.97it/s]Loading weights:   2%|▏         | 8/426 [00:00<00:26, 15.83it/s]Loading weights:   4%|▎         | 15/426 [00:00<00:15, 27.14it/s]Loading weights:   5%|▌         | 23/426 [00:00<00:12, 32.23it/s]Loading weights:   8%|▊         | 35/426 [00:01<00:07, 49.28it/s]Loading weights:  10%|▉         | 42/426 [00:01<00:11, 34.59it/s]Loading weights:  12%|█▏        | 52/426 [00:01<00:08, 45.79it/s]Loading weights:  14%|█▍        | 61/426 [00:01<00:08, 40.79it/s]Loading weights:  17%|█▋        | 72/426 [00:01<00:07, 49.54it/s]Loading weights:  19%|█▊        | 79/426 [00:02<00:07, 47.02it/s]Loading weights:  20%|█▉        | 85/426 [00:02<00:08, 40.02it/s]Loading weights:  22%|██▏       | 92/426 [00:02<00:07, 42.17it/s]Loading weights:  23%|██▎       | 97/426 [00:02<00:07, 42.84it/s]Loading weights:  24%|██▍       | 102/426 [00:02<00:07, 43.53it/s]Loading weights:  27%|██▋       | 113/426 [00:02<00:06, 50.85it/s]Loading weights:  28%|██▊       | 119/426 [00:02<00:06, 48.62it/s]Loading weights:  29%|██▉       | 125/426 [00:03<00:06, 49.42it/s]Loading weights:  31%|███       | 131/426 [00:03<00:07, 41.27it/s]Loading weights:  32%|███▏      | 138/426 [00:03<00:06, 46.14it/s]Loading weights:  34%|███▎      | 143/426 [00:03<00:06, 42.16it/s]Loading weights:  35%|███▍      | 148/426 [00:03<00:07, 36.16it/s]Loading weights:  36%|███▌      | 152/426 [00:03<00:08, 31.53it/s]Loading weights:  38%|███▊      | 161/426 [00:04<00:06, 41.24it/s]Loading weights:  39%|███▉      | 166/426 [00:04<00:06, 41.26it/s]Loading weights:  40%|████      | 171/426 [00:04<00:06, 39.52it/s]Loading weights:  41%|████▏     | 176/426 [00:04<00:06, 36.30it/s]Loading weights:  43%|████▎     | 183/426 [00:04<00:06, 40.35it/s]Loading weights:  45%|████▍     | 191/426 [00:04<00:04, 49.17it/s]Loading weights:  46%|████▌     | 197/426 [00:04<00:05, 41.84it/s]Loading weights:  47%|████▋     | 202/426 [00:05<00:06, 33.10it/s]Loading weights:  49%|████▉     | 209/426 [00:05<00:05, 39.26it/s]Loading weights:  51%|█████     | 218/426 [00:05<00:04, 49.48it/s]Loading weights:  53%|█████▎    | 224/426 [00:05<00:04, 40.79it/s]Loading weights:  54%|█████▍    | 231/426 [00:05<00:04, 44.78it/s]Loading weights:  56%|█████▌    | 237/426 [00:05<00:05, 36.89it/s]Loading weights:  57%|█████▋    | 244/426 [00:06<00:04, 39.58it/s]Loading weights:  58%|█████▊    | 249/426 [00:06<00:05, 33.81it/s]Loading weights:  59%|█████▉    | 253/426 [00:06<00:06, 27.76it/s]Loading weights:  61%|██████    | 258/426 [00:06<00:05, 28.96it/s]Loading weights:  63%|██████▎   | 269/426 [00:06<00:03, 39.62it/s]Loading weights:  65%|██████▍   | 275/426 [00:07<00:03, 42.16it/s]Loading weights:  67%|██████▋   | 284/426 [00:07<00:02, 49.18it/s]Loading weights:  68%|██████▊   | 290/426 [00:07<00:03, 41.79it/s]Loading weights:  70%|██████▉   | 297/426 [00:07<00:02, 46.45it/s]Loading weights:  71%|███████   | 303/426 [00:07<00:03, 39.22it/s]Loading weights:  72%|███████▏  | 308/426 [00:07<00:03, 35.51it/s]Loading weights:  74%|███████▎  | 314/426 [00:07<00:02, 40.34it/s]Loading weights:  77%|███████▋  | 326/426 [00:08<00:02, 40.48it/s]Loading weights:  79%|███████▉  | 337/426 [00:08<00:01, 51.80it/s]Loading weights:  81%|████████  | 343/426 [00:08<00:01, 44.64it/s]Loading weights:  82%|████████▏ | 349/426 [00:08<00:01, 46.26it/s]Loading weights:  83%|████████▎ | 355/426 [00:08<00:01, 44.02it/s]Loading weights:  85%|████████▍ | 360/426 [00:09<00:02, 31.93it/s]Loading weights:  86%|████████▌ | 365/426 [00:09<00:01, 34.18it/s]Loading weights:  88%|████████▊ | 376/426 [00:09<00:01, 49.11it/s]Loading weights:  90%|████████▉ | 383/426 [00:09<00:01, 41.46it/s]Loading weights:  92%|█████████▏| 390/426 [00:09<00:00, 44.47it/s]Loading weights:  93%|█████████▎| 396/426 [00:09<00:00, 40.42it/s]Loading weights:  95%|█████████▍| 403/426 [00:10<00:00, 36.71it/s]Loading weights:  96%|█████████▌| 408/426 [00:10<00:00, 36.62it/s]Loading weights:  97%|█████████▋| 412/426 [00:10<00:00, 30.54it/s]Loading weights:  99%|█████████▊| 420/426 [00:10<00:00, 37.05it/s]Loading weights: 100%|██████████| 426/426 [00:10<00:00, 39.99it/s]
+    749 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[2/200] q000 baseline Can you find the patient with phone number 01012345678?
+    1848 tokens, tools=['search_patient']
+[3/200] q001 jev      Is Nour Ibrahim registered in your system?
+    744 tokens, tools=['search_patient']  jev=search_patient (0.99)
+[4/200] q001 baseline Is Nour Ibrahim registered in your system?
+    1868 tokens, tools=['search_patient']
+[5/200] q002 jev      Look up the patient record for Youssef Tarek.
+    774 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[6/200] q002 baseline Look up the patient record for Youssef Tarek.
+    1870 tokens, tools=['search_patient']
+[7/200] q003 jev      Do you have a patient with the number +20 109 876 5432?
+    730 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[8/200] q003 baseline Do you have a patient with the number +20 109 876 5432?
+    1842 tokens, tools=['search_patient']
+[9/200] q004 jev      What's the patient ID for Khaled Samir?
+    688 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[10/200] q004 baseline What's the patient ID for Khaled Samir?
+    1818 tokens, tools=['search_patient']
+[11/200] q005 jev      Search for a patient called Laila.
+    750 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[12/200] q005 baseline Search for a patient called Laila.
+    1853 tokens, tools=['search_patient']
+[13/200] q006 jev      I think I'm already registered, my number is 0118-765-4321. 
+    774 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[14/200] q006 baseline I think I'm already registered, my number is 0118-765-4321. 
+    1892 tokens, tools=['search_patient']
+[15/200] q007 jev      Find patient Ali Gamal please.
+    753 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[16/200] q007 baseline Find patient Ali Gamal please.
+    1895 tokens, tools=['search_patient']
+[17/200] q008 jev      Is there anyone named Mostafa in your patient list?
+    840 tokens, tools=['search_patient']  jev=search_patient (1.00)
+[18/200] q008 baseline Is there anyone named Mostafa in your patient list?
+    1963 tokens, tools=['search_patient']
+[19/200] q009 jev      Show me Omar Farouk's past appointments.
+    1311 tokens, tools=['get_patient_history', 'get_patient_history']  jev=get_patient_history (1.00)
+[20/200] q009 baseline Show me Omar Farouk's past appointments.
+    2010 tokens, tools=['get_patient_history']
+[21/200] q010 jev      What appointments has the patient with phone 01123456789 had
+    1000 tokens, tools=['get_patient_history']  jev=get_patient_history (1.00)
+[22/200] q010 baseline What appointments has the patient with phone 01123456789 had
+    2091 tokens, tools=['get_patient_history']
+[23/200] q011 jev      Can you pull up the visit history for Mariam Ali?
+    998 tokens, tools=['get_patient_history']  jev=get_patient_history (1.00)
+[24/200] q011 baseline Can you pull up the visit history for Mariam Ali?
+    4315 tokens, tools=['search_patient', 'get_patient_history', 'get_patient_history']
+[25/200] q012 jev      When was Laila Mahmoud's last visit and who did she see?
+    1341 tokens, tools=['get_patient_history', 'get_patient_history']  jev=get_patient_history (0.97)
+[26/200] q012 baseline When was Laila Mahmoud's last visit and who did she see?
+    3060 tokens, tools=['get_patient_history', 'get_patient_history']
+[27/200] q013 jev      List all previous visits for phone number 01276543210.
+    1131 tokens, tools=['get_patient_history']  jev=get_patient_history (1.00)
+[28/200] q013 baseline List all previous visits for phone number 01276543210.
+    2147 tokens, tools=['get_patient_history']
+[29/200] q014 jev      Has Hana Mostafa ever seen Dr. Mona Khalil before?
+    1381 tokens, tools=['get_patient_history', 'get_patient_history']  jev=get_patient_history (0.98)
+[30/200] q014 baseline Has Hana Mostafa ever seen Dr. Mona Khalil before?
+    4167 tokens, tools=['search_patient', 'get_patient_history', 'list_doctors']
+[31/200] q015 jev      I want to see my appointment history, my phone is 0119998887
+    1033 tokens, tools=['get_patient_history']  jev=get_patient_history (1.00)
+[32/200] q015 baseline I want to see my appointment history, my phone is 0119998887
+    2155 tokens, tools=['get_patient_history']
+[33/200] q016 jev      How many times has Ali Gamal visited the clinic?
+    1487 tokens, tools=['get_patient_history', 'get_patient_history']  jev=get_patient_history (0.98)
+[34/200] q016 baseline How many times has Ali Gamal visited the clinic?
+    4095 tokens, tools=['get_patient_history', 'search_patient', 'get_patient_history']
+[35/200] q017 jev      What did Nour Ibrahim come in for on her recent visits?
+    1500 tokens, tools=['get_patient_history', 'get_patient_history']  jev=get_patient_history (0.99)
+[36/200] q017 baseline What did Nour Ibrahim come in for on her recent visits?
+    3125 tokens, tools=['get_patient_history', 'get_patient_history']
+[37/200] q018 jev      Check Youssef Tarek's appointment record for me.
+    1700 tokens, tools=['get_patient_history', 'get_patient_history']  jev=get_patient_history (1.00)
+[38/200] q018 baseline Check Youssef Tarek's appointment record for me.
+    3147 tokens, tools=['get_patient_history', 'get_patient_history']
+[39/200] q019 jev      Which doctors work at your clinic?
+    817 tokens, tools=['list_doctors']  jev=list_doctors (1.00)
+[40/200] q019 baseline Which doctors work at your clinic?
+    1949 tokens, tools=['list_doctors']
+[41/200] q020 jev      Do you have an orthodontist?
+    754 tokens, tools=['list_doctors']  jev=list_doctors (1.00)
+[42/200] q020 baseline Do you have an orthodontist?
+    1885 tokens, tools=['list_doctors']
+[43/200] q021 jev      Who is your pediatric dentist?
+    750 tokens, tools=['list_doctors']  jev=list_doctors (0.99)
+[44/200] q021 baseline Who is your pediatric dentist?
+    1875 tokens, tools=['list_doctors']
+[45/200] q022 jev      I need a root canal specialist - which doctor does endodonti
+    766 tokens, tools=['list_doctors']  jev=list_doctors (0.99)
+[46/200] q022 baseline I need a root canal specialist - which doctor does endodonti
+    1942 tokens, tools=['list_doctors']
+[47/200] q023 jev      List all the dentists and their specialties.
+    766 tokens, tools=['list_doctors']  jev=list_doctors (1.00)
+[48/200] q023 baseline List all the dentists and their specialties.
+    1990 tokens, tools=['list_doctors']
+[49/200] q024 jev      Is there a general dentist at the clinic?
+    769 tokens, tools=['list_doctors']  jev=list_doctors (1.00)
+[50/200] q024 baseline Is there a general dentist at the clinic?
+    1940 tokens, tools=['list_doctors']
+[51/200] q025 jev      What kind of specialists do you have?
+    829 tokens, tools=['list_doctors']  jev=list_doctors (0.99)
+[52/200] q025 baseline What kind of specialists do you have?
+    1951 tokens, tools=['list_doctors']
+[53/200] q026 jev      My kid needs a dentist, which doctor treats children?
+    816 tokens, tools=['list_doctors']  jev=list_doctors (0.99)
+[54/200] q026 baseline My kid needs a dentist, which doctor treats children?
+    1993 tokens, tools=['list_doctors']
+[55/200] q027 jev      Which doctor should I see for braces?
+    1263 tokens, tools=['list_doctors', 'list_doctors']  jev=list_doctors (0.98)
+[56/200] q027 baseline Which doctor should I see for braces?
+    2974 tokens, tools=['list_doctors', 'list_doctors']
+[57/200] q028 jev      Does doctor 1 have any free slots on 2026-10-01?
+    1048 tokens, tools=['check_availability']  jev=check_availability (1.00)
+[58/200] q028 baseline Does doctor 1 have any free slots on 2026-10-01?
+    2003 tokens, tools=['check_availability']
+[59/200] q029 jev      What times are available with Dr. Mona Khalil on October 3rd
+    1628 tokens, tools=['list_doctors', 'check_availability']  jev=check_availability (0.99)
+[60/200] q029 baseline What times are available with Dr. Mona Khalil on October 3rd
+    3148 tokens, tools=['list_doctors', 'check_availability']
+[61/200] q030 jev      Is Dr. Karim Adel free on 2026-09-30?
+    1621 tokens, tools=['list_doctors', 'check_availability']  jev=check_availability (0.98)
+[62/200] q030 baseline Is Dr. Karim Adel free on 2026-09-30?
+    3152 tokens, tools=['list_doctors', 'check_availability']
+[63/200] q031 jev      Show me the open slots for doctor 4 on 2026-10-06.
+    1039 tokens, tools=['check_availability']  jev=check_availability (1.00)
+[64/200] q031 baseline Show me the open slots for doctor 4 on 2026-10-06.
+    2026 tokens, tools=['check_availability']
+[65/200] q032 jev      Any availability with Dr. Ahmed Hassan on 2026-10-07 in the 
+    1701 tokens, tools=['list_doctors', 'check_availability']  jev=check_availability (0.99)
+[66/200] q032 baseline Any availability with Dr. Ahmed Hassan on 2026-10-07 in the 
+    3223 tokens, tools=['list_doctors', 'check_availability']
+[67/200] q033 jev      When can I see Dr. Salma Youssef on 2026-10-02?
+    1597 tokens, tools=['list_doctors', 'check_availability']  jev=check_availability (0.96)
+[68/200] q033 baseline When can I see Dr. Salma Youssef on 2026-10-02?
+    3158 tokens, tools=['list_doctors', 'check_availability']
+[69/200] q034 jev      Check free times for doctor id 2 on 2026-10-05.
+    1030 tokens, tools=['check_availability']  jev=check_availability (1.00)
+[70/200] q034 baseline Check free times for doctor id 2 on 2026-10-05.
+    2024 tokens, tools=['check_availability']
+[71/200] q035 jev      Are there any morning slots with the endodontist on 2026-10-
+    2202 tokens, tools=['list_doctors', 'list_doctors', 'check_availability']  jev=check_availability (0.96)
+[72/200] q035 baseline Are there any morning slots with the endodontist on 2026-10-
+    4262 tokens, tools=['list_doctors', 'list_doctors', 'check_availability']
+[73/200] q036 jev      What's open on 2026-10-08 for doctor 3?
+    1112 tokens, tools=['check_availability']  jev=check_availability (1.00)
+[74/200] q036 baseline What's open on 2026-10-08 for doctor 3?
+    2036 tokens, tools=['check_availability']
+[75/200] q037 jev      Is 11:00 free with Dr. Ahmed Hassan on 2026-10-03?
+    1606 tokens, tools=['list_doctors', 'check_availability']  jev=check_availability (1.00)
+[76/200] q037 baseline Is 11:00 free with Dr. Ahmed Hassan on 2026-10-03?
+    3101 tokens, tools=['list_doctors', 'check_availability']
+[77/200] q038 jev      How much is a teeth cleaning?
+    767 tokens, tools=['get_treatment_price']  jev=get_treatment_price (1.00)
+[78/200] q038 baseline How much is a teeth cleaning?
+    3852 tokens, tools=['get_treatment_price', 'get_treatment_price', 'get_treatment_price']
+[79/200] q039 jev      What does teeth whitening cost?
+    1525 tokens, tools=['get_treatment_price', 'get_treatment_price', 'get_treatment_price']  jev=get_treatment_price (1.00)
+[80/200] q039 baseline What does teeth whitening cost?
+    1955 tokens, tools=['get_treatment_price']
+[81/200] q040 jev      Price of a crown?
+    680 tokens, tools=['get_treatment_price']  jev=get_treatment_price (1.00)
+[82/200] q040 baseline Price of a crown?
+    1822 tokens, tools=['get_treatment_price']
+[83/200] q041 jev      How much do you charge for a tooth extraction?
+    1064 tokens, tools=['get_treatment_price', 'get_treatment_price']  jev=get_treatment_price (1.00)
+[84/200] q041 baseline How much do you charge for a tooth extraction?
+    3799 tokens, tools=['get_treatment_price', 'get_treatment_price', 'get_treatment_price']
+[85/200] q042 jev      What's the cost of a regular checkup?
+    718 tokens, tools=['get_treatment_price']  jev=get_treatment_price (1.00)
+[86/200] q042 baseline What's the cost of a regular checkup?
+    11058 tokens, tools=['get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price']
+[87/200] q043 jev      How much is a filling?
+    647 tokens, tools=['get_treatment_price']  jev=get_treatment_price (1.00)
+[88/200] q043 baseline How much is a filling?
+    1810 tokens, tools=['get_treatment_price']
+[89/200] q044 jev      What do you charge for a braces consultation?
+    656 tokens, tools=['get_treatment_price']  jev=get_treatment_price (1.00)
+[90/200] q044 baseline What do you charge for a braces consultation?
+    1810 tokens, tools=['get_treatment_price']
+[91/200] q045 jev      Is a root canal expensive here? What's the price?
+    690 tokens, tools=['get_treatment_price']  jev=get_treatment_price (1.00)
+[92/200] q045 baseline Is a root canal expensive here? What's the price?
+    1825 tokens, tools=['get_treatment_price']
+[93/200] q046 jev      Give me the price for whitening and cleaning.
+    1097 tokens, tools=['get_treatment_price', 'get_treatment_price']  jev=get_treatment_price (1.00)
+[94/200] q046 baseline Give me the price for whitening and cleaning.
+    2818 tokens, tools=['get_treatment_price', 'get_treatment_price']
+[95/200] q047 jev      كم سعر الحشو؟
+    2082 tokens, tools=['get_treatment_price', 'get_treatment_price', 'get_treatment_price', 'get_treatment_price']  jev=get_treatment_price (1.00)
+[96/200] q047 baseline كم سعر الحشو؟
+    2874 tokens, tools=['get_treatment_price', 'get_treatment_price']
+[97/200] q048 jev      Where is the clinic located?
+    657 tokens, tools=['get_clinic_info']  jev=get_clinic_info (1.00)
+[98/200] q048 baseline Where is the clinic located?
+    1822 tokens, tools=['get_clinic_info']
+[99/200] q049 jev      Do you accept AXA insurance?
+    692 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.99)
+[100/200] q049 baseline Do you accept AXA insurance?
+    1829 tokens, tools=['get_clinic_info']
+[101/200] q050 jev      Is there parking near the clinic?
+    680 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.99)
+[102/200] q050 baseline Is there parking near the clinic?
+    1807 tokens, tools=['get_clinic_info']
+[103/200] q051 jev      Are you open on Fridays?
+    685 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.98)
+[104/200] q051 baseline Are you open on Fridays?
+    1827 tokens, tools=['get_clinic_info']
+[105/200] q052 jev      What's your cancellation policy?
+    1135 tokens, tools=['get_clinic_info', 'get_clinic_info']  jev=get_clinic_info (0.97)
+[106/200] q052 baseline What's your cancellation policy?
+    2836 tokens, tools=['get_clinic_info', 'get_clinic_info']
+[107/200] q053 jev      What time do you close on Thursday?
+    719 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.97)
+[108/200] q053 baseline What time do you close on Thursday?
+    1877 tokens, tools=['get_clinic_info']
+[109/200] q054 jev      Which insurance companies do you work with?
+    731 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.99)
+[110/200] q054 baseline Which insurance companies do you work with?
+    1856 tokens, tools=['get_clinic_info']
+[111/200] q055 jev      What's the clinic's address? I'm coming from Nasr City.
+    698 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.99)
+[112/200] q055 baseline What's the clinic's address? I'm coming from Nasr City.
+    1829 tokens, tools=['get_clinic_info']
+[113/200] q056 jev      Do I get charged if I cancel late?
+    1146 tokens, tools=['get_clinic_info', 'get_clinic_info']  jev=get_clinic_info (0.90)
+[114/200] q056 baseline Do I get charged if I cancel late?
+    2962 tokens, tools=['get_clinic_info', 'get_clinic_info']
+[115/200] q057 jev      العيادة بتفتح الساعة كام؟
+    720 tokens, tools=['get_clinic_info']  jev=get_clinic_info (0.99)
+[116/200] q057 baseline العيادة بتفتح الساعة كام؟
+    1915 tokens, tools=['get_clinic_info']
+[117/200] q058 jev      I'd like to book a cleaning with Dr. Ahmed Hassan on 2026-10
+    4232 tokens, tools=['search_patient', 'list_doctors', 'check_availability']  jev=check_availability (0.53)
+[118/200] q058 baseline I'd like to book a cleaning with Dr. Ahmed Hassan on 2026-10
+    4225 tokens, tools=['search_patient', 'list_doctors', 'check_availability']
+[119/200] q059 jev      Book me an appointment with the orthodontist next week.
+    1041 tokens, tools=[]  jev=list_doctors (0.61)
+[120/200] q059 baseline Book me an appointment with the orthodontist next week.
+    1033 tokens, tools=[]
+[121/200] q060 jev      Can I schedule a checkup for my daughter Farida Sherif with 
+    4424 tokens, tools=['search_patient', 'list_doctors', 'check_availability']  jev=search_patient (0.41)
+[122/200] q060 baseline Can I schedule a checkup for my daughter Farida Sherif with 
+    4405 tokens, tools=['search_patient', 'list_doctors', 'check_availability']
+[123/200] q061 jev      I want to make an appointment for a filling.
+    1040 tokens, tools=[]  jev=get_treatment_price (0.55)
+[124/200] q061 baseline I want to make an appointment for a filling.
+    1050 tokens, tools=[]
+[125/200] q062 jev      Please reserve slot 5 with doctor 1 for patient 3.
+    983 tokens, tools=[]  jev=book_appointment (0.97)
+[126/200] q062 baseline Please reserve slot 5 with doctor 1 for patient 3.
+    1040 tokens, tools=[]
+[127/200] q063 jev      Book Khaled Samir with Dr. Karim Adel on 2026-10-02 at 14:00
+    4175 tokens, tools=['search_patient', 'list_doctors', 'check_availability']  jev=book_appointment (0.62)
+[128/200] q063 baseline Book Khaled Samir with Dr. Karim Adel on 2026-10-02 at 14:00
+    4242 tokens, tools=['search_patient', 'list_doctors', 'check_availability']
+[129/200] q064 jev      I need an appointment as soon as possible, I have a toothach
+    4287 tokens, tools=['search_patient', 'list_doctors', 'check_availability']  jev=search_patient (0.65)
+[130/200] q064 baseline I need an appointment as soon as possible, I have a toothach
+    4256 tokens, tools=['search_patient', 'list_doctors', 'check_availability']
+[131/200] q065 jev      Can I come in tomorrow for a checkup?
+    1040 tokens, tools=[]  jev=get_clinic_info (0.31)
+[132/200] q065 baseline Can I come in tomorrow for a checkup?
+    1034 tokens, tools=[]
+[133/200] q066 jev      Schedule a braces consultation for Nour Ibrahim on 2026-10-0
+    4304 tokens, tools=['search_patient', 'list_doctors', 'check_availability']  jev=search_patient (0.52)
+[134/200] q066 baseline Schedule a braces consultation for Nour Ibrahim on 2026-10-0
+    4242 tokens, tools=['search_patient', 'list_doctors', 'check_availability']
+[135/200] q067 jev      عايز احجز ميعاد كشف مع دكتور احمد حسن
+    1050 tokens, tools=[]  jev=search_patient (0.59)
+[136/200] q067 baseline عايز احجز ميعاد كشف مع دكتور احمد حسن
+    2046 tokens, tools=['list_doctors']
+[137/200] q068 jev      Please cancel appointment 29.
+    497 tokens, tools=[]  jev=cancel_appointment (1.00)
+[138/200] q068 baseline Please cancel appointment 29.
+    1015 tokens, tools=[]
+[139/200] q069 jev      I need to cancel my appointment on 2026-10-01, my phone is 0
+    1754 tokens, tools=['search_patient', 'get_patient_history']  jev=cancel_appointment (0.94)
+[140/200] q069 baseline I need to cancel my appointment on 2026-10-01, my phone is 0
+    3522 tokens, tools=['search_patient', 'get_patient_history']
+[141/200] q070 jev      Cancel Hana Mostafa's appointment on October 8th.
+    1781 tokens, tools=['search_patient', 'get_patient_history']  jev=cancel_appointment (0.97)
+[142/200] q070 baseline Cancel Hana Mostafa's appointment on October 8th.
+    4379 tokens, tools=['search_patient', 'get_patient_history', 'search_patient']
+[143/200] q071 jev      I can't make it to my visit tomorrow, please cancel it.
+    487 tokens, tools=[]  jev=cancel_appointment (0.99)
+[144/200] q071 baseline I can't make it to my visit tomorrow, please cancel it.
+    967 tokens, tools=[]
+[145/200] q072 jev      Cancel appointment number 36, I'm travelling.
+    577 tokens, tools=[]  jev=cancel_appointment (1.00)
+[146/200] q072 baseline Cancel appointment number 36, I'm travelling.
+    936 tokens, tools=[]
+[147/200] q073 jev      Khaled Samir wants to cancel his appointment on 2026-10-04.
+    1795 tokens, tools=['search_patient', 'get_patient_history']  jev=cancel_appointment (0.99)
+[148/200] q073 baseline Khaled Samir wants to cancel his appointment on 2026-10-04.
+    3041 tokens, tools=['search_patient', 'get_patient_history']
+[149/200] q074 jev      Please remove my booking with Dr. Salma Youssef, I'm Laila M
+    1759 tokens, tools=['search_patient', 'get_patient_history']  jev=cancel_appointment (0.99)
+[150/200] q074 baseline Please remove my booking with Dr. Salma Youssef, I'm Laila M
+    3212 tokens, tools=['search_patient', 'get_patient_history']
+[151/200] q075 jev      I want to cancel all my upcoming appointments.
+    1029 tokens, tools=[]  jev=cancel_appointment (0.60)
+[152/200] q075 baseline I want to cancel all my upcoming appointments.
+    959 tokens, tools=[]
+[153/200] q076 jev      Can you move appointment 27 to a different time the same wee
+    739 tokens, tools=[]  jev=reschedule_appointment (1.00)
+[154/200] q076 baseline Can you move appointment 27 to a different time the same wee
+    1184 tokens, tools=[]
+[155/200] q077 jev      I need to reschedule my appointment on 2026-10-06 with Dr. K
+    701 tokens, tools=[]  jev=reschedule_appointment (0.97)
+[156/200] q077 baseline I need to reschedule my appointment on 2026-10-06 with Dr. K
+    4762 tokens, tools=['search_patient', 'list_doctors', 'get_patient_history']
+[157/200] q078 jev      Move Mariam Ali's appointment on October 1st to the afternoo
+    2139 tokens, tools=['search_patient', 'get_patient_history']  jev=reschedule_appointment (0.99)
+[158/200] q078 baseline Move Mariam Ali's appointment on October 1st to the afternoo
+    9895 tokens, tools=['search_patient', 'get_patient_history', 'get_patient_history', 'list_doctors', 'get_patient_history', 'check_availability']
+[159/200] q079 jev      Can I change my appointment to a later date?
+    618 tokens, tools=[]  jev=reschedule_appointment (0.98)
+[160/200] q079 baseline Can I change my appointment to a later date?
+    1014 tokens, tools=[]
+[161/200] q080 jev      Reschedule appointment 31 to slot 450.
+    772 tokens, tools=[]  jev=reschedule_appointment (1.00)
+[162/200] q080 baseline Reschedule appointment 31 to slot 450.
+    976 tokens, tools=[]
+[163/200] q081 jev      Something came up - please push my visit on 2026-10-04 to th
+    5825 tokens, tools=['search_patient', 'get_patient_history', 'check_availability', 'check_availability', 'check_availability']  jev=reschedule_appointment (0.99)
+[164/200] q081 baseline Something came up - please push my visit on 2026-10-04 to th
+    6080 tokens, tools=['search_patient', 'get_patient_history', 'list_doctors', 'check_availability']
+[165/200] q082 jev      Can Farida Sherif's appointment on 2026-10-01 be moved to 10
+    rate limited, waiting 160s
+    rate limited, waiting 158s
+    rate limited, waiting 165s
